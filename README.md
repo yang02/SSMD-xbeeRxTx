@@ -1,4 +1,0 @@
-SSMD-xbeeRxTx
-=============
-
-using maxmsp
